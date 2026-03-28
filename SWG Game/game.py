@@ -29,5 +29,7 @@ elif(score==-1):
 else:
   print("You won")
 
-  #just testing it
+print("Thank you")
+
+  #just testing it 
   
