@@ -29,5 +29,7 @@ elif(score==-1):
 else:
   print("You won")
 
+print("Hakuna Matata")
+
   #just testing it
   
